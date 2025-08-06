@@ -46,7 +46,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  color: #506266;
+  color: rgb(80, 98, 102);
   font-size: 30px;
   
 }
