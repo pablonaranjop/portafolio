@@ -33,7 +33,7 @@ body {
 }
 
 .topmenu:hover {
-  color: white;
+  color: #f5dd9d;
   font-weigth: bolder;
   text-decoration: underline;
 }
