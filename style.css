@@ -25,7 +25,7 @@ body {
  }
 
 .topmenu {
-  color: #7b8f8a;
+  color: #506266;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -46,7 +46,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  color: lightblue;
+  color: #506266;
   font-size: 30px;
   
 }
